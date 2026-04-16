@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b6085f7d-a825-46fb-8bff-3e5ef855b5a1",
+  "id_short": 948592,
+  "published_at": "2026-04-16T07:18:23Z",
+  "repo_name": "all-restaurants-in-clifton-new-jersey-us-sample-948592",
+  "sample_asset_name": "beamstation_948592_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/948592/beamstation_948592_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_records": 46,
+  "sample_sha256": "e089f6e705575883f5382da9a9a05d7f5782ca1549fd47dfcf78079c51e3c0a4",
+  "sample_size_bytes": 166638,
+  "total_records": 463
+}
