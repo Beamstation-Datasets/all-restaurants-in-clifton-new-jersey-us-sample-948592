@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Clifton, New Jersey. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Clifton, New Jersey, US",
-  "export_job_id": "b6085f7d-a825-46fb-8bff-3e5ef855b5a1",
+  "export_job_id": "895e2af5-2b0e-4c74-a441-829b47dfcc8e",
   "github_org": "Beamstation-Datasets",
   "id_short": 948592,
   "location_name": "Clifton",
   "location_type": "city",
   "repo_name": "all-restaurants-in-clifton-new-jersey-us-sample-948592",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/948592/beamstation_948592_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_pct": 9.94,
+  "sample_pct": 9.98,
   "sample_records": 46,
-  "sample_sha256": "e089f6e705575883f5382da9a9a05d7f5782ca1549fd47dfcf78079c51e3c0a4",
-  "sample_size_bytes": 166638,
-  "total_records": 463,
-  "updated_at": "2026-04-09T14:00:34.963039+00:00"
+  "sample_sha256": "2daadcff9f04532d185db7ec259aae4ca3a3b4ac34a576c97884cdefe7367ae6",
+  "sample_size_bytes": 169881,
+  "total_records": 461,
+  "updated_at": "2026-04-16T14:33:46.589229+00:00"
 }
