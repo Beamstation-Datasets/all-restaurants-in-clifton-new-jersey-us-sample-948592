@@ -1,6 +1,6 @@
 # All Restaurants in Clifton, New Jersey, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `948592` |
 | Location | Clifton |
 | Category | Restaurants |
-| Full dataset size | 461 records |
-| Free sample size | 46 records (9.98%) |
-| Last export | 2026-04-16T14:33:46.589229+00:00 |
+| Full dataset size | 407 records |
+| Free sample size | 40 records (9.83%) |
+| Last export | 2026-04-30T19:23:33.357672+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clifton-new-jersey-us-sample-948592/releases/download/sample-latest/beamstation_948592_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
